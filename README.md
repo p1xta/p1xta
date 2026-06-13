@@ -9,19 +9,19 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 #### 🧠 ML & AI
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=pytorch)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?style=for-the-badge&logo=scikitlearn)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?style=for-the-badge&logo=opencv)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?style=for-the-badge&logo=Matplotlib)
 ![Transformers](https://img.shields.io/badge/-Transformers-000?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-000?style=for-the-badge&logo=huggingface)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 ![MLflow](https://img.shields.io/badge/-MLflow-000?style=for-the-badge&logo=MLflow)
 ![ClearML](https://img.shields.io/badge/-ClearML-000?style=for-the-badge&logo=ClearML)
 ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 #### 📊 Data
-![NumPy](https://img.shields.io/badge/-NumPy-000?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Polars](https://img.shields.io/badge/-Polars-000?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
