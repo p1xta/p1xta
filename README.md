@@ -14,10 +14,11 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=pytorch)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?style=for-the-badge&logo=scikitlearn)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?style=for-the-badge&logo=opencv)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?style=for-the-badge&logo=Matplotlib)
 ![Transformers](https://img.shields.io/badge/-Transformers-000?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-000?style=for-the-badge&logo=huggingface)
-![MLflow](https://img.shields.io/badge/-MLflow-000?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi)
+![MLflow](https://img.shields.io/badge/-MLflow-000?style=for-the-badge&logo=MLflow)
+![ClearML](https://img.shields.io/badge/-ClearML-000?style=for-the-badge&logo=ClearML)
 
 #### 📊 Data
 
@@ -30,6 +31,10 @@
 
 ![ROS2](https://img.shields.io/badge/-ROS2-000?style=for-the-badge&logo=ros)
 ![Gazebo](https://img.shields.io/badge/-Gazebo-000?style=for-the-badge)
+
+#### 📑 Other libraries
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi)
 
 ### 🔮 Tools
 
