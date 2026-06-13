@@ -3,10 +3,10 @@
 
 
 #### 💻 Languages
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus)
-![C#](https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=csharp)
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 #### 🧠 ML & AI
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=pytorch)
@@ -24,6 +24,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas)
 ![Polars](https://img.shields.io/badge/-Polars-000?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 
 #### 🤖 Robotics
 ![ROS2](https://img.shields.io/badge/-ROS2-000?style=for-the-badge&logo=ros)
